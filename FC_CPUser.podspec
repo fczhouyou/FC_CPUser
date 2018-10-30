@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FC_CPUser"
-  s.version      = "1.0"
+  s.version      = "1.2"
   s.summary      = "cpuser"
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "CPUser/SetI001.framework/Headers/*.h"
-  #s.exclude_files = "CPUser/Exclude"
+  s.exclude_files = "CPUser"
 
   # s.public_header_files = "CPUser/SetI001.framework/Headers/*.h"
 
