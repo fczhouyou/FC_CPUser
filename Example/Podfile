@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FC_CPUser_Tests' do
+  pod 'FC_CPUser', :path => '../'
+  
+  pod 'Kiwi'
+end

@@ -1,0 +1,22 @@
+{
+  "name": "FC_CPUser",
+  "version": "0.1.0",
+  "summary": "A short description of FC_CPUser.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fczhouyou/FC_CPUser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fczhouyou": "zhouyou@sobey.com"
+  },
+  "source": {
+    "git": "https://github.com/fczhouyou/FC_CPUser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FC_CPUser/Classes/**/*"
+}

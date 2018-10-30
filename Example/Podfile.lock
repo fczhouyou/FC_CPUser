@@ -1,0 +1,23 @@
+PODS:
+  - FC_CPUser (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - FC_CPUser (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  FC_CPUser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FC_CPUser: d9747153cacda949dcb8b48f3c1b1a5902c4d5d6
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: a15700136680fa3ba07e9e15bdd234e812d13381
+
+COCOAPODS: 1.5.3

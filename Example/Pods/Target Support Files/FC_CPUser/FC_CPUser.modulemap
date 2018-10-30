@@ -1,0 +1,6 @@
+framework module FC_CPUser {
+  umbrella header "FC_CPUser-umbrella.h"
+
+  export *
+  module * { export * }
+}
